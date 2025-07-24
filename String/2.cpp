@@ -17,4 +17,5 @@ int main(){
     char ch;
     cin>>ch;
     cout<<findch(s,ch);
+    cout<<"Mugdha";
 }
